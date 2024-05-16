@@ -5,9 +5,14 @@ All notable changes to this project will be documented in this file. See [conven
 ---
 ## [unreleased]
 
+### Bug Fixes
+
+- modify .github/workflows/build.yml - ([b92a06f](https://github.com/yuxuetr/rust-template/commit/b92a06fa5541f0411716d5055f537ea5217e430b)) - yuxuetr
+
 ### Features
 
 - mpsc thread example - ([7a18d36](https://github.com/yuxuetr/rust-template/commit/7a18d366099293932a144cf04f4ba5ee6873d9e4)) - yuxuetr
+- support basic matirx multiply - ([a6500fd](https://github.com/yuxuetr/rust-template/commit/a6500fd74e3f1ba456780dbedf4948d902ab16ac)) - yuxuetr
 
 ### Miscellaneous Chores
 
