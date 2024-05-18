@@ -18,7 +18,8 @@ All notable changes to this project will be documented in this file. See [conven
 - update CHANGELOG.md - ([9f21000](https://github.com/yuxuetr/rust-template/commit/9f2100073b48bca275c9bdc81aa8edc78f75c727)) - yuxuetr
 - support Arc and Mutex for metrics - ([bf18531](https://github.com/yuxuetr/rust-template/commit/bf185314ebaf61d2ab0aca8df7d50a7480c722be)) - yuxuetr
 - support RwLock for metrics - ([0cc9e42](https://github.com/yuxuetr/rust-template/commit/0cc9e423f33814d065a17ebc784b42942f5d6075)) - yuxuetr
-- support DashMap for metrics - ([963c171](https://github.com/yuxuetr/rust-template/commit/963c17155767e62e8e9a38de2cd4bd5ce6934b9d)) - yuxuetr
+- support DashMap for metrics - ([aca1c74](https://github.com/yuxuetr/rust-template/commit/aca1c7481d7c8f4ac46100acb5ee088efc0c5cea)) - yuxuetr
+- support atomit for metrics - ([da93cb7](https://github.com/yuxuetr/rust-template/commit/da93cb74552c01606987f2d7ccac17a34e8c7ea5)) - yuxuetr
 
 ### Miscellaneous Chores
 
